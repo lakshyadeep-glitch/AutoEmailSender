@@ -1,4 +1,4 @@
-# AutoEmailSender 📧
+# AutoEmailSender 
 
 This is a simple Python script to send emails using Gmail SMTP.
 
@@ -16,5 +16,5 @@ python main.py
 
 ## Output
 ```
-✅ Email sent successfully!
+ Email sent successfully!
 ```
