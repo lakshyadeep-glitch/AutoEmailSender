@@ -7,7 +7,7 @@ This is a simple Python script to send emails using Gmail SMTP.
 - Works with Gmail accounts using app passwords
 
 ## How to Run
-1. Replace `your-email@gmail.com` with your Gmail
+1. Replace `your-email@gmail.com` with your Email
 2. Create an **App Password** for your Gmail (from [Google Account > Security > App passwords](https://myaccount.google.com/security))
 3. Run:
 ```bash
